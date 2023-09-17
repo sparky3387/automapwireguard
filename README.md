@@ -13,3 +13,4 @@ I have set the VBS scripts to skip any errors, you may want to remove "On Error 
 1. Download the zip file
 1. Copy the automount folder to your Documents folder
 1. Import the tasks, into your task scheduler, they only need to run as the local user without any additional privileges  
+1. Update the mountme VBS with the correct IP address for your mount
